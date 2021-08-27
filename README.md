@@ -1,6 +1,6 @@
 # Frontend Mentor : Profile Card Component Main
 
-⭐완성된 Challenges : https://yuuujin97.github.io/Profile-Card-Component-Main/
+⭐완성된 Challenges : https://yuuujin97.github.io/Profile-Card-Component/
 
 ---
 
